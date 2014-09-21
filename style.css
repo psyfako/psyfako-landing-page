@@ -21,12 +21,13 @@ body {
 	color: #2F1608;
 	font-family: "Verdana";
 	font-size: 55px;
+        text-align: center;
 }
 
 .text {
-	color: #653E29;
+	color: #2F1608;
 	font-family: "Verdana";
-	font-size: 16px;
+	font-size: 18px;
 }
 
 .buttons {
@@ -39,7 +40,7 @@ body {
 	background-color: #814E33;
 	
 	/* 40% opacity for browsers that can handle it */
-	background-color:rgba(129, 78, 51, 0.25);
+	background-color:rgba(129, 78, 51, 0.75);
 	
 	/* For IE 5.5+, #BB000000 is ~40% opacity on black */
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#28000000, endColorstr=#28000000);
@@ -51,8 +52,8 @@ body {
 	-moz-border-radius: 15px;
 	border-radius: 15px;
 	
-	margin: 0% 5% 0% 65%;
+	margin: 0% 5% 0% 55%;
 	padding: 0% 1% 0% 1%;
 	
-	height: 45%;
+	height: 90%;
 }
