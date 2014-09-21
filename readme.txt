@@ -1,6 +1,23 @@
+----------------
 README
-------
+----------------
 
+----------------
+LICENSE and stuff
+----------------
+
+Images:
+Background
+
+Buttons
+ar taking from
+
+http://dakirby309.deviantart.com/art/Metro-UI-Icon-Set-725-Icons-280724102
+
+
+----------------
+Original README from
+----------------
 This project is meant to help me learn CSS, and to establish a bit more of an
 online presence. :)
 
