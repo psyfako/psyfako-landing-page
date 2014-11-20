@@ -19,15 +19,16 @@ body {
 
 .title {
 	color: #2F1608;
-	font-family: "Verdana";
-	font-size: 55px;
+	font-family: "Ubuntu";
+	font-size: 45px;
         text-align: center;
 }
 
 .text {
 	color: #2F1608;
-	font-family: "Verdana";
-	font-size: 18px;
+	font-family: "Ubuntu";
+	font-size: 20px;
+	text-align: center;
 }
 
 .buttons {
@@ -52,7 +53,7 @@ body {
 	-moz-border-radius: 15px;
 	border-radius: 15px;
 	
-	margin: 0% 5% 0% 55%;
+	margin: 0% 5% 0% 45%;
 	padding: 0% 1% 0% 1%;
 	
 	height: 90%;
