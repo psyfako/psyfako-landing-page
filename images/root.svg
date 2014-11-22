@@ -106,6 +106,15 @@
          stdDeviation="0.56022074"
          id="feGaussianBlur3929-0-91-6" />
     </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3927-8-95-2">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.56022074"
+         id="feGaussianBlur3929-0-12-5" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -120,9 +129,9 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1276"
+     inkscape:window-width="636"
      inkscape:window-height="761"
-     inkscape:window-x="0"
+     inkscape:window-x="640"
      inkscape:window-y="18"
      inkscape:window-maximized="0" />
   <metadata
@@ -489,5 +498,42 @@
          x="-47.433113"
          y="-106.33553"
          style="font-size:22px;font-weight:500;-inkscape-font-specification:Ubuntu Medium">Impressum </tspan></text>
+    <g
+       id="g3958-3-4"
+       transform="matrix(0.82932404,0,0,1.0174266,106.70484,-7.3013061)"
+       inkscape:export-filename="/home/wu/git/psyfako-landing-page/images/owncloud.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="149.77721"
+         x="147.31007"
+         height="20.169939"
+         width="203.23698"
+         id="rect3004-9-1-1-7"
+         style="fill:#93ac9d;fill-opacity:1;stroke:#93ac9d;stroke-width:25.34305382;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         transform="matrix(1.005888,0,0,0.90538665,7.8746943,98.634064)"
+         y="56.754326"
+         x="138.47087"
+         height="21.744318"
+         width="202.34398"
+         id="rect3004-2-7-8"
+         style="fill-opacity:1;stroke:#80ff80;stroke-width:26.25568199;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3927-8-95-2)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="396.34927"
+       y="160.90172"
+       id="text3059-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/wu/git/psyfako-landing-page/images/owncloud.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3061-4"
+         x="396.34927"
+         y="160.90172"
+         style="font-size:22px;font-weight:500;text-align:end;text-anchor:end;-inkscape-font-specification:Ubuntu Medium">Owncloud</tspan></text>
   </g>
 </svg>
